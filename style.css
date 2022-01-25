@@ -1,0 +1,211 @@
+.sub{
+    background-image: linear-gradient(#ff7722  ,white,green );
+    margin: 0px;
+}
+body{
+    margin: 0px;
+}
+.header{
+
+color: blanchedalmond;
+margin-top: 0px;
+padding: 0px;
+
+
+
+}
+header{
+    line-height:  100px  ; 
+    font-size: 40px ;
+ 
+    
+    
+}
+#Home{
+    border-right: solid rgb(184, 187, 28);
+    border-width: 3px;
+    margin-left: 0px;
+}
+#About{
+    border-right: solid rgb(184, 187, 28);
+    
+    border-width: 3px;
+    padding-right: 0px;
+}
+#Symptoms{
+    border-right: solid rgb(184, 187, 28);
+    border-width: 3px;
+}
+#FAQ{
+    border-right: solid rgb(184, 187, 28);
+    border-width: 3px;
+    
+}
+#Contact{
+
+
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}.modi{
+    text-align:center;
+    background-image: url("modii.jpg");
+    width: 940px;
+    height: 550px;
+    margin-left: 305px;
+    font-family: cursive;
+    font-size: 30px;
+    background-size: cover;
+}
+p{
+    line-height: 40px;
+    font-size: 25px;
+    color: yellow;
+}
+#about1{
+    font-size: 80px;
+    color: white;
+    font-family:fantasy;
+    background-image: url(coronavirus-2.jpg);
+    height: 200px;
+    background-size: cover;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 100px;
+}
+.about{
+   
+    
+    
+    
+}.a1{
+    display:inline-block;
+    width: 750px;
+    color:violet;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 100px;
+    border: solid black;
+    border-radius: 10px;
+    padding:5px;
+    border-width: 10px;
+
+}#danger{
+    width: 300px;
+    display: inline
+
+}#prvention{
+    display: inline-block;
+    
+    size:812px,571px;
+    
+}.a2{
+    display:inline-block;
+    width: 600px;
+    position: relative;
+    left: 100px;
+    bottom: 180px;
+    border: solid black 10px;
+    border-radius: 10px;
+    color: violet;
+}.a3{
+    display:inline-block;
+    width: 750px;
+    color:violet;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 100px;
+    border: solid black;
+    border-radius: 10px;
+    padding:5px;
+    border-width: 10px;
+}.spread{
+    display: inline-block;
+}#symptoms{
+    font-size: 40px;
+    background-color: yellow;
+    width:300px;
+    height: 70px;
+    margin-left: 560px;
+    border: dashed green;
+    border-radius: 20px;
+    padding-top: 10px;
+}.symptom{
+  background-image: url(background2.jpg);
+  background-size: cover;
+  height:500px
+}table,tr,td,th{
+    border:solid rgb(1, 1, 10);
+    width:10px;
+    
+    
+    
+}th{
+    font-size: 30px;
+
+
+}
+td{
+    font-size: 18px;
+    padding: 10px;
+}
+table{
+    position:relative;
+    left: 50px;
+    top: 80px;
+    width: 900px;
+    
+}.symptomsI{
+    position: relative;
+    left:1000px;
+    bottom: 250px;
+
+    width: 500px;
+}
+#heading1{
+    margin-left: 20px;
+}#heading2{
+    margin-left: 20px;
+}
+#heading3{
+    margin-left: 20px;
+}
+.heading1{
+    margin-left: 20px;
+}
+.heading2{
+    margin-left: 20px;
+}
+.heading3{
+    margin-left: 20px;
+}
+.heading4{
+    margin-left: 20px;
+}
+#heading4{
+    margin-left: 20px;
+}h1{
+    text-align: "left";
+}.image{
+    position: relative;
+    left: 600px;
+}.instagram{
+    display: inline-block;
+}.facebook{
+    display: inline-block;
+    position: relative;
+    left: 440px;
+}.linkedin{
+    display:inline-block;
+    position: relative;
+    left: 820px;
+}footer{
+    background-color: black;
+    color: blanchedalmond;
+}#faq{
+    display: inline-block;
+    margin-left: 500px;
+    position: relative;
+    bottom: 80px;
+}
